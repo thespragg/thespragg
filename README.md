@@ -19,3 +19,7 @@
 <img style="width:5%" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/postgresql.png"/>
 <img style="width:5%" src="https://images.squarespace-cdn.com/content/v1/52ca3b73e4b04a45ef2c5cb6/1551884861331-C9U2RHJQLOPL9F332X5O/AWS_blog_01.PNG"/>
 </div>
+
+## Stats
+
+![thespragg's github stats](https://github-readme-stats.vercel.app/api?username=thespragg&show_icons=true&theme=gruvbox)
