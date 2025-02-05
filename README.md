@@ -1,6 +1,5 @@
 ![Header](https://user-images.githubusercontent.com/11881500/179539916-00c919a2-c83e-435f-b3b3-7250c6fa79b2.png)
 
-- 🔭 I’m currently working at TES
 - 🌱 I’m currently learning whatever interests me this week
 - ⚙️ I use daily: `.cs`, `.js`, `.ts`, `.html`, `.css`
 - 🌍 I'm mostly active within the **Dotnet community**
